@@ -1,6 +1,6 @@
 ## About
 
-Java Studies.
+Java studies.
 
 To create the piramid of numbers, a `Scanner` was used to get the user input and default `System.out.println` to output the result.
 
